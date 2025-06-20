@@ -7,6 +7,6 @@ public class GitModeloA {
 		System.out.println("Cambio en master para merge");
 		System.out.println("Cambio en Rama 1");
 		System.out.println("Cambio desde repositorio remoto");
-
+		System.out.println("Segundo Cambio desde repositorio remoto");
 	}
 }
